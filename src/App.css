@@ -102,10 +102,11 @@
 button {
   padding: 1rem;
   background: #e2d9ca;
-  font-size: 2rem;
+  font-size: 0.6rem;
   color: #212b36;
   border: 2px solid #bf4f4f;
   border-radius: 5px;
+  
 }
 
 button:hover {
