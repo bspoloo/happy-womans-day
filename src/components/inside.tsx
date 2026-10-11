@@ -24,7 +24,7 @@ export default function Inside({ isOpen, setIsOpen }: CardType) {
 
             <p id='message' className="psdt-message">
                 Feliz dia de la mujer pasala bien, y eso que es domingo xd
-                vas a disculpar la carta chafa, pero fue lo unico que se me ocurrio para felitarte por el dia de la mujer
+                vas a disculpar la carta chafa, pero fue lo unico que se me ocurrio para felicitarte por el dia de la mujer
 
             </p>
 
