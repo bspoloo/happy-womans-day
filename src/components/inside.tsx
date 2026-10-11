@@ -2,7 +2,8 @@ import Gato from "../assets/gato.gif";
 import type { CardType } from "../types/cards.type";
 
 export default function Inside({ isOpen, setIsOpen }: CardType) {
-
+    console.log(isOpen);
+    
     return <>
         <div id="inside">
 
