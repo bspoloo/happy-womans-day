@@ -7,7 +7,7 @@ export default function Outside({ isOpen, setIsOpen }: CardType) {
         <div id="outside" className={isOpen ? 'open-card' : ''}>
 
             <p id="outside-title">
-                Felis dia de la mujer
+                Buenos dias a la chica mas preciosa de la vida
             </p>
 
             <img id="outside-pic" src={Gato} />
