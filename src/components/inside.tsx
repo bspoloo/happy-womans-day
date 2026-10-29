@@ -28,7 +28,7 @@ export default function Inside({ isOpen, setIsOpen }: CardType) {
 
             <p className="psdt-message">
                 P. D.: No te emociones mucho leyendo esto, que después me vas a
-                preguntar por qué me pongo nervioso cuando te veo. JAJAJA.
+                preguntar por qué me pongo nervioso cuando hablo contigo. JAJAJA.
                 Aunque, siendo sincero, si te saqué una sonrisita o te hice
                 sonrojar aunque sea un poquito, ya valió la pena. 🙈💕
             </p>
