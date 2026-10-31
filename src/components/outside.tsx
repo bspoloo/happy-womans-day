@@ -7,13 +7,13 @@ export default function Outside({ isOpen, setIsOpen }: CardType) {
         <div id="outside" className={isOpen ? 'open-card' : ''}>
 
             <p id="outside-title">
-                Buenos dias a la chica mas preciosa de la vida
+                Wenas como tas, espero haberte alegrado tus madrugadas xd
             </p>
 
             <img id="outside-pic" src={Gato} />
 
             <p>
-                <button  type="button"  onClick={() => setIsOpen(true)}>Presioname xd</button>
+                <button  type="button"  onClick={() => setIsOpen(true)}>Aqui presiona xdxd</button>
             </p>
 
         </div>

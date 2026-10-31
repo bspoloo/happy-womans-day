@@ -6,35 +6,7 @@ export default function Inside({ isOpen, setIsOpen }: CardType) {
 
     return <>
         <div id="inside">
-
-            <p id="inside-title">
-                Para la niña que tiene una sonrisa demasiado bonita ❤️
-            </p>
-
-            <img id="inside-pic" src={Gato} />
-
-            <p className="text-message">
-                No sé si te lo dicen lo suficiente, pero tienes algo que te hace
-                especialmente bonita. Y no, no hablo solamente de tu sonrisa,
-                aunque admito que esa tiene bastante culpa de que esté escribiendo esto. 🤭
-            </p>
-
-            <p className="text-message">
-                Quería recordarte que eres alguien especial, de esas personas que
-                sin hacer demasiado pueden alegrarle el día a alguien. Y bueno...
-                por si todavía no lo habías notado, tienes una pequeña habilidad
-                para hacer que alguien sonría como tonto mirando su celular. ❤️
-            </p>
-
-            <p className="psdt-message">
-                P. D.: No te emociones mucho leyendo esto, que después me vas a
-                preguntar por qué me pongo nervioso cuando hablo contigo. JAJAJA.
-                Aunque, siendo sincero, si te saqué una sonrisita o te hice
-                sonrojar aunque sea un poquito, ya valió la pena. 🙈💕
-            </p>
-            <p>
-                <button type="button" onClick={() => setIsOpen(false)}>Ahora pa cerrar :v</button>
-            </p>
+            <img src="https://i.pinimg.com/236x/20/68/aa/2068aa7531e06cfdcf7a91dda5f63850.jpg" width={300}></img>
         </div>
     </>
 }
